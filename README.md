@@ -2,8 +2,8 @@
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
 <h3 align="center">Data analyst</h3>
 
-# My study project is in the file 'first_project_Comerce'.
-### The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces
+## The file 'first_project_Comerce' contains my study project.
+### The dataset has information of 100k orders from 2016 to 2018 made at multiple marketplaces.
 
 ### While working on the project, I completed some tasks:
 ### 1. How many users do we have who made a purchase only once?
