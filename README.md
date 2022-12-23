@@ -15,8 +15,8 @@
 ### 3. Implemented a function that will automatically load information from an additional file 
 ###    and build graphs.
 
-###
-###
+###   
+###   
 
 ## The file 'E-commerce_project' contains my project.
 ### Task: analysis of purchases of e-commerce users
