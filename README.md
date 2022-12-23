@@ -16,6 +16,8 @@
 ###    and build graphs.
 
 
+
+
 ## The file 'E-commerce_project' contains my project.
 ### Task: analysis of purchases of e-commerce users
 ### Used technology stack: Python (pandas, numpy, matplotlib, seaborn, requests), API
