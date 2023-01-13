@@ -4,3 +4,4 @@
 ## 3) cohort_analysis - cohort analysis of e-commerce data
 ## 4) metrics - analyze user behavior, as well as evaluate the effectiveness of their acquisition channels and calculate metrics: MAU, CR, ROMI, cohort analysis, funnel, CAC, Churn Rate
 ## 5) rfm_analysis - RFM analysis of e-commerce data
+## 6) sql_queries_to_redash - make a SQL(PostgreSQL) queries to Redash from Python: JOIN and Window function
