@@ -24,8 +24,7 @@ Programs that I'm great at:
 ### Used technology stack: Python (pandas, pandahouse, numpy, matplotlib, seaborn, scipy, requests), ClickHouse
 
 ### While working on the project, I completed:
-### 1. The results of the experiment were analyzed A/B test and conclusions were drawn whether 
-###    it is worth launching a new payment mechanism for all users.
+### 1. The results of the experiment were analyzed A/B test and conclusions were drawn whether it is worth launching a new payment mechanism for all users.
 ### 2. Using Python, I made a SQL query in ClickHouse, found diligent students 
 ###    and calculated metrics (CR, ARPU, ARPAU).
 ### 3. Implemented a function that will automatically load information from an additional file 
